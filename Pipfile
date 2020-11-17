@@ -16,6 +16,8 @@ seaborn = "*"
 matplotlib = "*"
 notebook = "*"
 joblib = "*"
+pydot = "*"
+graphviz = "*"
 
 [requires]
 python_version = "3.8"
