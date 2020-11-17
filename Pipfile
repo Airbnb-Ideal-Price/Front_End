@@ -15,6 +15,7 @@ numpy = "*"
 seaborn = "*"
 matplotlib = "*"
 notebook = "*"
+joblib = "*"
 
 [requires]
 python_version = "3.8"
