@@ -18,6 +18,7 @@ notebook = "*"
 joblib = "*"
 pydot = "*"
 graphviz = "*"
+word2number = "*"
 
 [requires]
 python_version = "3.8"
