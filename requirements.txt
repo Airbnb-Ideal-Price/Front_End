@@ -1,0 +1,14 @@
+tensorflow
+scikit-learn
+scikit-image
+ipykernel
+pandas
+numpy
+seaborn
+matplotlib
+notebook
+jupyterlab
+joblib
+pydot
+graphviz
+word2number
